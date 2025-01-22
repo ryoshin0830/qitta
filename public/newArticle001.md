@@ -1,7 +1,8 @@
 ---
 title: Ubuntuのサーバーを作成したあとやるべきこと
 tags:
-  - ''
+  - 'Ubuntu'
+  - 'サーバー'
 private: false
 updated_at: ''
 id: null
