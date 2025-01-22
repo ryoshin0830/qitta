@@ -4,7 +4,7 @@ tags:
   - Ubuntu
   - サーバー
 private: false
-updated_at: '2025-01-22T17:07:21+09:00'
+updated_at: '2025-01-22T17:19:26+09:00'
 id: 4f7db55a295aec62b333
 organization_url_name: null
 slide: false
